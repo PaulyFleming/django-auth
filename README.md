@@ -1,4 +1,4 @@
-## Simple App Tp Learn Django Authentication
+# Simple App To Learn Django Authentication
 
-# To-Do:
+## To-Do:
  * Update App to using Django 3
